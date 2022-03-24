@@ -1,0 +1,36 @@
+
+
+# Visual Studio Code # 
+vscode 
+!.vscode/settings.json 
+!.vscode/extensions.json 
+.history
+
+
+# enviroment
+env
+bin/
+.python-version
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Django related. #
+*.log
+static-cdn/
+*.pyc
+
+# Distribution / packaging
+.Python
+lib/
+
+# pyenv 
+.python-version 
+
+# databsase
+db.sqlite3
+
